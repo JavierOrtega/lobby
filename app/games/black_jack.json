@@ -1,0 +1,11 @@
+{
+    "titleImage": "img/games/tablet-blackjack.jpg", 
+    "payLines":"25",
+    "slotType":"5 reels, 3 rows",
+    "bonusRound":"Jackpot",
+    "minMaxBet":"0.25/500",
+    "rtp":"95.63",
+    "play4Real":false,
+    "url4Fun": "https://m.skyvegas.com/games-content/DONDBlackjack/index.html?gcmParams=gcmPlayMode%3Ddemo%7CgcmChannel%3DW%7CgcmGameName%3DDONDBJ%7CgcmCommonUIURL%3D%2Fgame-console%2Fdond-blackjack-html&gcmPlayMode=demo&playMode=demo&gcmChannel=W&channel=W&commonUIURL=/game-console/dond-blackjack-html&gcmGameName=DONDBJ&gameName=DONDBJ",
+    "urlLogin": ""
+}

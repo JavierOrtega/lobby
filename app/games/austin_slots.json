@@ -1,0 +1,11 @@
+{
+    "titleImage": "img/games/tablet-austin-slots.jpg", 
+    "payLines":"25",
+    "slotType":"5 reels, 3 rows",
+    "bonusRound":"Jackpot",
+    "minMaxBet":"0.25/500",
+    "rtp":"95.63",
+    "play4Real":false,
+    "url4Fun": "http://ice.endemolgames.com/javier/ap/bp/index.php?token=JMcEoFKxRj8hiG1zSXyEBTtM0nea7v0fHAN9F9lGjWGGi2RX8x;endemol6&language=en&playmode=demo",
+    "urlLogin": ""
+}

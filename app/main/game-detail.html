@@ -1,0 +1,31 @@
+<div class="game-header">
+    <img src="img/endemol-logo.png">
+    <a  class="button game-detail-backButton-container"  href="#/main/{{game.id}}">        
+      <span class="button game-detail-backButton glyphicon glyphicon-circle-arrow-left" aria-hidden="false"></span> 
+    </a>
+  </div>
+<div class="game-body container-fluid" >
+  <!--Body content-->  
+  <div>
+    <img ng-src="{{game.titleImage}}"class="phone game-detail-image" >
+  </div>
+
+  <div class="btn-container">
+    <button type="button" ng-click="playDemo()" class="btn btn-lg btn-primary btn-xlarge btn-fun">Fun Play</button>
+    <button type="button" ng-show="game.play4Real" ng-click="playReal()" class="btn btn-lg btn-success btn-xlarge btn-real ">Real Play</button>
+  </div>
+
+  <div class="row game-detail-table">
+    <div class="col-sm-5 game-detail-cell game-detail-cell-gray">Paylines:</div>
+    <div class="col-sm-6 game-detail-cell game-detail-cell-white">{{game.payLines}}</div>
+    <div class="col-sm-5 game-detail-cell game-detail-cell-gray">Slot Type:</div>
+    <div class="col-sm-6 game-detail-cell game-detail-cell-white">{{game.slotType}}</div>
+    <div class="col-sm-5 game-detail-cell game-detail-cell-gray">Bonus Round:</div>
+    <div class="col-sm-6 game-detail-cell game-detail-cell-white">{{game.bonusRound}}</div>
+    <div class="col-sm-5 game-detail-cell game-detail-cell-gray">Min/Max Bet:</div>
+    <div class="col-sm-6 game-detail-cell game-detail-cell-white">{{game.minMaxBet}}</div>
+    <div class="col-sm-5 game-detail-cell game-detail-cell-gray">RTP:</div>
+    <div class="col-sm-6 game-detail-cell game-detail-cell-white">{{game.rtp}}</div>
+  </div>
+
+</div>

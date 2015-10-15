@@ -1,0 +1,11 @@
+{
+    "titleImage": "img/games/tablet-dream-slots.jpg", 
+    "payLines":"20",
+    "slotType":"5 reels, 3 rows",
+    "bonusRound":"Free Spins",
+    "minMaxBet":"0.20/100",
+    "rtp":"93.86",
+    "play4Real":false,
+    "url4Fun": "http://ice.endemolgames.com/javier/df/bp/index.php?token=JMcEoFKxRj8hiG1zSXyEBTtM0nea7v0fHAN9F9lGjWGGi2RX8x;endemol6&language=en&playmode=real",
+    "urlLogin": ""
+}

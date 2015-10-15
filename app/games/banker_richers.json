@@ -1,0 +1,11 @@
+{
+    "titleImage": "img/games/tablet-dond-banksters-riches.jpg", 
+    "payLines":"20",
+    "slotType":"5 reels, 3 rows",
+    "bonusRound":"Yes",
+    "minMaxBet":"0.20/500",
+    "rtp":"94.46",
+    "play4Real":false,
+    "url4Fun": "http://ice.endemolgames.com/javier/dondslot/gcm/games/DealNoDealSlot_UK/index.html?commonUIURL=../../gcm-example-commonui/commonui.html&playMode=demo&gameName=DealNoDealSlot&channel=I",
+    "urlLogin": ""
+}

@@ -1,0 +1,11 @@
+{
+    "titleImage": "img/games/tablet-roulette.jpg", 
+    "payLines":"-",
+    "slotType":"-",
+    "bonusRound":"Yes",
+    "minMaxBet":"0.20/500",
+    "rtp":"94.46",
+    "play4Real":false,
+    "url4Fun": "https://m.skyvegas.com/games-content/DONDRoulette/index.html?gcmParams=gcmPlayMode%3Ddemo%7CgcmChannel%3DW%7CgcmGameName%3DDONDRoulette%7CgcmCommonUIURL%3D%2Fgame-console%2Fdond-roulette-html&gcmPlayMode=demo&playMode=demo&gcmChannel=W&channel=W&commonUIURL=/game-console/dond-roulette-html&gcmGameName=DONDRoulette&gameName=DONDRoulette",
+    "urlLogin": ""
+}

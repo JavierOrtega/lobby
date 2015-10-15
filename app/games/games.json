@@ -1,0 +1,38 @@
+[
+    {
+        "age": 0, 
+        "id": "austin_slots", 
+        "imageUrl": "img/games/tablet-austin-slots.jpg", 
+        "name": "Austin Powers", 
+        "snippet": "Sharks with frickin's lasers beams, mojo wilds, Mini Me free spins...oh behave! This 25 line Slot is packed full of exciting bonus features to get groovy! Yeah baby..."
+    },    
+    {
+        "age": 2, 
+        "id": "dream_factory", 
+        "imageUrl": "img/games/tablet-dream-slots.jpg", 
+        "name": "Dream Factory", 
+        "snippet": "Take a spin on this fantastic 20 line slot game where dreams can certainly come true. This game is fun filled and action packed with multiple bonus rounds that will leave you wanting more! The game can also pay out up to x2500 your stake amount! What are you waiting for? Play now!"
+    }
+    ,    
+    {
+        "age": 3, 
+        "id": "banker_richers", 
+        "imageUrl": "img/games/tablet-dond-banksters-riches.jpg", 
+        "name": "Banker's Richers", 
+        "snippet": "Welcome to Deal or No Deal - The Banker's Richer slot game where you can take the Banker for all he's got! There are 3 great bonus features and a 3 level progressive jackpot to play for in this compelling slot game."
+    },
+     {
+        "age": 0, 
+        "id": "black_jack", 
+        "imageUrl": "img/games/tablet-blackjack.jpg", 
+        "name": "Blackjack", 
+        "snippet": "Deal or No Deal Blackjack is a modern day version of the classic card game but with a Deal or No Deal twist.  The aim of blackjack is to beat the dealer by achieving a score higher with your hand without exceeding 21.  If the total of the cards are above this amount then the player goes ‘bust’ and loses the hand."
+    },    
+    {
+        "age": 2, 
+        "id": "roulette", 
+        "imageUrl": "img/games/tablet-roulette.jpg", 
+        "name": "Banker's Richers 2", 
+        "snippet": "Deal or No Deal Roulette is a version of the classic casino game with a Deal or No Deal theme. There are 37 lucky numbers on the Roulette wheel and an additional Bonus wheel that it is triggeredwhen you have made the side bet."
+    }    
+]
